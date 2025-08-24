@@ -1,12 +1,7 @@
-Hey there, I'm TranVo! 👋
+<h1 align='center'><samp><strong>Hey there, I'm TranVo! 👋</strong></samp></h1>
+
 
 Welcome to my GitHub! I'm a passionate mobile developer with a love for building creative solutions and tackling interesting challenges. I enjoy working on projects that blend technology, innovation, and a bit of fun!
-
-## About Me
-
-💻 I specialize in JavaScript, FLutter.
-🌱 Currently learning and exploring Code Native to master the essence of native Android development.
-🚀 I believe in writing clean, efficient code and sharing knowledge with the community.
 
 ## My Tech Stack
 
