@@ -90,7 +90,7 @@ JSON         1 hr 25 mins    ██░░░░░░░░░░░░░░░
 ## 🎵 Currently Vibing To
 <div align="center">
   
-[![Spotify](https://spotify-now-playing-wine.vercel.app/api/spotify-playing)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://spotify-now-playing-wine.vercel.app/api/spotify-playing)](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY?si=bb0ca9896e384320)
 
 </div>
 
