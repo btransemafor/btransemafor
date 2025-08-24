@@ -87,17 +87,6 @@ JSON         1 hr 25 mins    ██░░░░░░░░░░░░░░░
 
 </div>
 
-## 🎵 Currently Vibing To
-<div align="center">
-  
-[![Spotify](https://spotify-now-playing-wine.vercel.app/api/spotify-playing)](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY?si=bb0ca9896e384320)
-
-</div>
-
----
-
-<div align="center">
-  
 ### 🌟 Show some ❤️ by starring some of the repositories! 🌟
 
 <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
