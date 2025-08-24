@@ -89,10 +89,6 @@ JSON         1 hr 25 mins    ██░░░░░░░░░░░░░░░
 
 ### 🌟 Show some ❤️ by starring some of the repositories! 🌟
 
-<img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
 <div align="center">
   
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
