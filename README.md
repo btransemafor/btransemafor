@@ -8,28 +8,6 @@
 
 </div>
 
-## 🎯 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-```javascript
-const tranvo = {
-    pronouns: "she" | "her",
-    code: ["Dart", "JavaScript"],
-    askMeAbout: ["Flutter", "Mobile Dev", "Tech", "Photography"],
-    technologies: {
-        mobileApp: ["Flutter"],
-        backEnd: ["Node.js", "Express"],
-        database: ["PostgreSQL", "MySQL", "Redis", "Cassandra"],
-        tools: ["Git", "VS Code", "Figma", "Postman"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building scalable mobile applications",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-<br>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -60,16 +38,6 @@ const tranvo = {
 </div>
 
 
-## 💻 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Dart         12 hrs 30 mins  ███████████████░░░░░░░░░░░░░   58.2%
-JavaScript   8 hrs 45 mins   ██████████░░░░░░░░░░░░░░░░░░   35.7%
-JSON         1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░░░░   6.1%
-```
-<!--END_SECTION:waka-->
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -80,14 +48,6 @@ JSON         1 hr 25 mins    ██░░░░░░░░░░░░░░░
 
 </div>
 
-## 💡 Random Dev Quote
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-### 🌟 Show some ❤️ by starring some of the repositories! 🌟
 
 <div align="center">
   
