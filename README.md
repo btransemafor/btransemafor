@@ -49,15 +49,7 @@
 </div>
 
 
-## 💫 Current Focus
-<div align="center">
-typescriptconst currentFocus = {
-  learning: ["Flutter Advanced Patterns", "Cloud Architecture", "AI Integration"],
-  building: ["Cross-platform Mobile Apps", "Scalable Backend Services"],
-  exploring: ["Machine Learning", "Blockchain", "AR/VR Technologies"],
-  goals: ["Open Source Contributions", "Tech Community Building"]
-};
-</div>
+## 💫 OMGNICE
 
 <div align="center">
 "First, solve the problem. Then, write the code." – John Johnson
