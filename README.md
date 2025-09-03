@@ -54,3 +54,10 @@
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
 </div>
+
+<div align="center">
+"First, solve the problem. Then, write the code." – John Johnson
+Show Image
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+✨ Thanks for visiting! Let's build something amazing together! ✨
+</div>
